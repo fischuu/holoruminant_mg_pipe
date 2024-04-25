@@ -1,4 +1,8 @@
-![Actions](https://github.com/3d-omics/mg_assembly/actions/workflows/devel/badge.svg)
+This pipeline is a fork from the Snakemake workflow
+
+https://github.com/3d-omics/mg_assembly/
+
+and tailored to the needs of the Holoruminant project. The text below is still from the original repository and needs to be adjusted.
 
 # Snakemake workflow: `mg_assembly`
 
